@@ -4,7 +4,7 @@
   <img src="assets/treelaw-readme-header.png" alt="TreeLaw 中国法律智能体技能库" width="100%">
 </p>
 
-**7 年以上执业律师水平的中国法律智能体。**<br>
+**十年以上执业律师水平的中国法律智能体。**<br>
 212 个由执业法律专业人员手写并验证的法律智能体技能（Agent Skills），覆盖诉讼律师、非诉律师、常年法律顾问和企业合规团队，贯穿检索 → 推理 → 论证 → 文书 → 交付的完整链条。
 
 A curated library of 212 hand-crafted, lawyer-verified legal agent skills for Chinese legal practice, covering litigation lawyers, transactional lawyers, general counsel, and corporate compliance teams.
@@ -85,7 +85,7 @@ TreeLaw 的核心不是“回答法律问题”，而是把中国律师真实工
 
 <p><a href="https://treelaw.top"><img src="assets/skill-index/skill-pleading-fact-extraction.png" alt="pleading-fact-extraction"></a></p>
 
-从众多材料中抽取起诉状、答辩状和法律意见书所需事实。
+从材料中抽取起诉状、答辩状和法律意见书所需事实。
 
 <p>
   <img src="assets/skill-index/section-03.png" alt="诉讼策略与文书生成" width="560">
